@@ -1,3 +1,13 @@
-# Project Proposal
+# Einstein
+[Lina Sanchez](https://github.com/linahsan)
+[Luna Suzuki] (https://github.com/lunasuzukii)
+Shritha Gundapuneni
 
-Delete the contents of this file and replace with your project proposal, as described in the [instructions](./instructions.md)
+## What and why?
+
+## For whom?
+
+## How? (core functionality)
+
+## Scope
+
