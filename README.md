@@ -3,7 +3,7 @@
 
 [Luna Suzuki](https://github.com/lunasuzukii)
 
-[Shritha Gundapuneni](https://github.com/sg7335)
+[Shritha Gundapuneni](https://github.com/shrithag)
 
 
 ## What and why?
